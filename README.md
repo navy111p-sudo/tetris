@@ -15,4 +15,3 @@
 
 # 마크다운 md를 마크다운 에디터에서 사용.
     markdown editor를 가지고 design.md를 가지고 사용가능
-    
