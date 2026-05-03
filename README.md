@@ -9,3 +9,6 @@
     add commit push
 # 내가 지금 작업 하는 폴더가 초신이 아니라면
     git pull origin master
+
+# 현재 상태를 확인하기 위해서는
+    git status
