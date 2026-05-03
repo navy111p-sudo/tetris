@@ -5,3 +5,7 @@
     python --version 3.11.x 나오면 성공!
     py -m install pygame
     
+# 그다음에 
+    add commit push
+# 내가 지금 작업 하는 폴더가 초신이 아니라면
+    git pull origin mastergit
